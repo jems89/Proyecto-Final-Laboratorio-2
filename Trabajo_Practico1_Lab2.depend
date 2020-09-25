@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1600649628 source:c:\users\usuario\desktop\tp1 lab2\trabajo_practico1_lab2\main.cpp
+	"menu.h"
+
+1600993605 source:c:\users\usuario\desktop\tp1 lab2\trabajo_practico1_lab2\menu.cpp
+	<iostream>
+	"ui.h"
+	"menu.h"
+	"usuario.h"
+
+1600993614 source:c:\users\usuario\desktop\tp1 lab2\trabajo_practico1_lab2\participante.cpp
+	<iostream>
+	"fecha.h"
+	"usuario.h"
+	"ctime"
+
+1599185512 c:\users\usuario\desktop\tp1 lab2\trabajo_practico1_lab2\menu.h
+
+1600992803 c:\users\usuario\desktop\tp1 lab2\trabajo_practico1_lab2\usuario.h
+	"fecha.h"
+
+1600662517 source:c:\users\usuario\desktop\tp1 lab2\trabajo_practico1_lab2\fecha.cpp
+	<iostream>
+	<ctime>
+	"fecha.h"
+
+1600661228 c:\users\usuario\desktop\tp1 lab2\trabajo_practico1_lab2\fecha.h
+
+1599185512 source:c:\users\usuario\desktop\tp1 lab2\trabajo_practico1_lab2\ui.cpp
+	<iostream>
+	<cstring>
+	"ui.h"
+	"rlutil.h"
+
+1599185512 c:\users\usuario\desktop\tp1 lab2\trabajo_practico1_lab2\ui.h
+
+1599185512 c:\users\usuario\desktop\tp1 lab2\trabajo_practico1_lab2\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
